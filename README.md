@@ -37,6 +37,7 @@ then follow the same steps as shown here.
   ```
   pip install virtualenv
   ```
+  
 - Then create a virtual environment, copy paste the code in your terminal:
   ```
   virtualenv venv
